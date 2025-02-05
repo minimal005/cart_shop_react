@@ -43,4 +43,4 @@ This project is an online store for elegant clothing, built using React. It incl
 
 ## **Live Demo**
 
-Experience the live website: [Furniture Store Demo](https://minimal005.github.io/cart_shop_react/)
+Experience the live website: [Clothing Shop Demo](https://minimal005.github.io/cart_shop_react/)
